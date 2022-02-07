@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: revert;
+    display: flex;
+    justify-content: center;
+}
+
+.form-label{
+   color: black;
+   font-size: 25px;
+}
+
+input{
+    background-color: #cccccc;
+    color: black;
+    border: transparent;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    width: 50vw;
+    height: 35px;
+    font-size: 20px;
+}
+
+#check{
+    width: 20px;
+    height: 20px;
+}
+
+.check-text{
+    color: black;
+}
